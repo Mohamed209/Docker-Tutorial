@@ -13,5 +13,5 @@
 7- to run using decompose run "$ docker-compose up"
 
 
-##references##
+## References ##
 https://codefresh.io/docker-tutorial/hello-whale-getting-started-docker-flask/
