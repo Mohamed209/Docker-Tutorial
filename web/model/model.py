@@ -15,7 +15,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.preprocessing import StandardScaler
 
 
-PATH='/home/mohamed-mosad/Repos/chloe_flask_docker_demo/web'
+PATH='/home/mohamed-mosad/Repos/flask_docker_demo/web'
 
 # Importing the dataset
 dataset = pd.read_csv('Salary_Data.csv')
