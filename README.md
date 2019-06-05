@@ -1,5 +1,6 @@
 # Docker-Flask Tutorial #
  repo conducts example of how to use docker to deploy machine learning model
+ 
 1- in model folder (/web/model) simple linear regression model is trained to predict employee salary based on years of experience
 
 2- model saves it weights in /web directory
